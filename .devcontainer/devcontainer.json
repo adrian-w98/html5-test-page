@@ -1,0 +1,5 @@
+{
+  "image": "conda/miniconda3:latest",
+  "features": {
+  }
+}
